@@ -1,0 +1,16 @@
+span {
+  font-family: monospace;
+  font-size: 18px;
+  color: green;
+}
+
+p {
+  font-family: monospace;
+  font-size: 20px;
+  color: green;
+  position: absolute;
+  right: 10px;
+  background-color: white;
+  background-size: contain;
+
+}
